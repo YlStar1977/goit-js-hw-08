@@ -39,7 +39,7 @@ function onGalleryItemClick(event) {
     const largeImageUrl = event.target.dataset.source;
 
   
-    openModal(largeImageUrl);
+    // openModal(largeImageUrl);
 }
 
 function openModal(url) {
